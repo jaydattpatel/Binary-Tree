@@ -17,11 +17,17 @@ CREATE BINARY TREE
                             
                             
 Inorder is: [4, D]  [2, B]  [5, E]  [1, A]  [6, F]  [3, C]  [7, G]
+
 Preorder is: [1, A]  [2, B]  [4, D]  [5, E]  [3, C]  [6, F]  [7, G]
+
 Postorder is: [4, D]  [5, E]  [2, B]  [6, F]  [7, G]  [3, C]  [1, A]
+
 BFS levelorder is:  [1, A]   [2, B]   [3, C]   [4, D]   [5, E]   [6, F]   [7, G]
+
 Height of Tree : 3
+
 DFS levelorder is: [4, D]  [5, E]  [6, F]  [7, G]  [2, B]  [3, C]  [1, A]
+
 Print value of level:
         Level-1: [1, A]
         Level-2: [2, B]  [3, C]
