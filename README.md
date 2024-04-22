@@ -1,5 +1,8 @@
 # Binary-Tree
 Different Operation on Binary Tree Structure
+<div id="badges">
+  <img src="https://api.visitorbadge.io/api/visitors?path=jaydattpatel%2FBinary-Tree&label=Visitors&countColor=%2337d67a" alt="Visitor badge" width="100" height="28"/>
+</div>
 
 
 CREATE BINARY TREE
